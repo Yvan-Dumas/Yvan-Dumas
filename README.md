@@ -3,4 +3,4 @@ I am currently 19 years old, and I am studying at the engineering school Polytec
 
 ## 📫 Contact Me
 - ✉️ Email: [yvandumas05@gmail.com](mailto:yvandumas05@gmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yvan-dumas-520b6226a/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yvan-dumas/)
