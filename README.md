@@ -2,8 +2,8 @@
 I am currently 20 years old, and I am studying at the engineering school Polytech Lyon in France.
 
 ## Tools & Tech
-C++, Python, Java  
-HTML, CSS, JavaScript, PHP, Vue.js  
+Java, C++, Python
+HTML, CSS, JavaScript, React
 SQL  
 Figma  
 
