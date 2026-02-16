@@ -3,7 +3,7 @@ I am currently 20 years old, and I am studying at the engineering school Polytec
 
 ## Tools & Tech
 Java, C++, Python
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript, React  
 SQL  
 Figma  
 
