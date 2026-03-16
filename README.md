@@ -1,55 +1,8 @@
-# 👋 Hi, I am Yvan Dumas
-I am currently 20 years old, and I am studying at the engineering school Polytech Lyon in France.  
-Currently looking for a five-month internship abroad starting in september 2026 !
+## Hi👋, I'm Yvan Dumas!    
 
-## Tools & Tech
-Python, C++, Java  
-HTML, CSS, JavaScript, React  
-SQL  
-Figma 
-
-## Portfolio
-[yvandumas.com](https://yvandumas.com/)
-
-## 📫 Contact Me
-- ✉️ Email : [yvandumas05@gmail.com](mailto:yvandumas05@gmail.com)
-- 🌐 LinkedIn : [yvan-dumas](https://www.linkedin.com/in/yvan-dumas/)
-
-
-## Hi👋, I'm Yvan Dumas!  
-  
-
-<a href="https://github.com/Yvan-Dumas" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/Yvan-Dumas" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://yvandumas.com" target="_blank">
-<img src="https://img.shields.io/badge/PORTFOLIO" alt=portfolio style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
-## About Me
-I am a 20-year-old Engineering Student at **Polytech Lyon**, France.   
-I am currently looking for a **5-month internship abroad** starting in **September 2026**.  
-  
-
-<br/>  
-
-- 🎓 3rd year student in Computer Science  
-  
-
-- 💡 Passionate about Full stack and Software development  
-  
-
-- 📍 Seeking opportunities in Japan and South Korea  
-  
-
-<br/>  
-
+🎓 **Engineering Student** @ Polytech Lyon  
+🚀 **Fullstack & Software Enthusiast**  
+🌍 **Seeking 5-month Internship:** Japan 🇯🇵 or South Korea 🇰🇷 (Sept 2026)
 
 ## Languages and Tools  
 <div align="center">  
@@ -65,4 +18,11 @@ I am currently looking for a **5-month internship abroad** starting in **Septemb
 <a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
-<br />
+
+## Connect with me
+<p align="left">
+<a href="https://github.com/Yvan-Dumas" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github /></a>
+<a href="https://linkedin.com/in/Yvan-Dumas" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin /></a>
+<a href="mailto:yvandumas05@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=mail /></a>
+<a href="https://yvandumas.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt=portfolio /></a>
+</p>
