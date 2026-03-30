@@ -2,7 +2,7 @@
 
 🎓 **Engineering Student** @ Polytech Lyon  
 🚀 **Fullstack & Software Enthusiast**  
-🌍 **Seeking 5-month Internship:** Japan 🇯🇵 or South Korea 🇰🇷 (Sept 2026)
+🌍 **Seeking 5-month Internship abroad (Sept 2026)**
 
 ## Languages and Tools  
 <div align="center">  
